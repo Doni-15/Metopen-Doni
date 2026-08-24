@@ -1,4 +1,4 @@
-# ROADMAP PENGUJIAN OTORISASI
+# Roadmap Pengujian Otorisasi
 
 **Judul penelitian:** Evaluasi Kontrol Otorisasi pada Tingkat Fungsi dan Objek pada Aplikasi Web Multi-Role Menggunakan OWASP Web Security Testing Guide: Studi Kasus Self Order System Management  
 **Objek penelitian:** Self Order System Management  
