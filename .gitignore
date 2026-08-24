@@ -1,0 +1,8 @@
+# Berkas sementara Microsoft Office
+~$*.docx
+
+# Editor dan sistem operasi
+*.swp
+*~
+.DS_Store
+Thumbs.db
